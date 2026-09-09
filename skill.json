@@ -1,0 +1,17 @@
+{
+  "name": "genpark-shannon-entropy-mutual-information-estimator-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Shannon Entropy, Mutual Information, Kullback-Leibler Divergence & Jensen-Shannon Estimator",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "information-theory",
+    "shannon-entropy",
+    "mutual-information",
+    "kl-divergence"
+  ]
+}
